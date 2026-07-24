@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark theme snake animation SVG -->
+  <defs>
+    <style>
+      @keyframes snake-move {
+        0%, 100% { transform: translateX(0); }
+        50% { transform: translateX(20px); }
+      }
+      .snake { animation: snake-move 2s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#0d1117"/>
+  <g class="snake" fill="#58a6ff">
+    <circle cx="100" cy="100" r="8"/>
+    <circle cx="115" cy="100" r="8"/>
+    <circle cx="130" cy="100" r="8"/>
+    <circle cx="145" cy="100" r="8"/>
+    <circle cx="160" cy="100" r="8"/>
+  </g>
+  <text x="400" y="150" text-anchor="middle" fill="#58a6ff" font-size="14" font-family="Arial">
+    GitHub contributions snake animation
+  </text>
+</svg>
