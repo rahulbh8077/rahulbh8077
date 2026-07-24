@@ -20,7 +20,13 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/rahul-bhadoriya-61ab3336b/)
 <br></br>
-
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
+</picture>
+</div>
 <h3 align="left">Connect with me:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
@@ -45,14 +51,6 @@
 <br></br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
-</picture>
-</div>
 
 <div align="center">
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbh8077&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
