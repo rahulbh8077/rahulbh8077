@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rahulbh8077&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbh8077" /> </p>
 <h1 align="center">
-   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+Rahul+Bhadoriya;Data+Science+Enthusiast;" alt="Typing SVG" /></a>
+   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+Rahul+Bhadoriya&center=true&size=35" alt="Typing SVG" /> </a>
 </h1>
 
 <h3 align="center">An Aspiring Data Scientist from India</h3>
@@ -47,20 +47,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
+    <img alt="github-snake" src="snake/github-light.svg" />
+  </picture>
+</div>
+
+<div align="center">
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbh8077&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
   <img width="440" src="https://github-readme-stats.vercel.app/api?username=rahulbh8077&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbh8077&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
-    <img alt="github-snake" src="snake/github-light.svg" />
-  </picture>
 </div>
 
 ### ✍️ Random Dev Quote
