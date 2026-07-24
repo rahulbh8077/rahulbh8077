@@ -48,10 +48,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/dist/github-contribution-grid-snake-light.svg" />
-    <img alt="github-dark.svg" src="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rahulbh8077/rahulbh8077/output/github-snake-light.svg">
+</picture>
 </div>
 
 <div align="center">
