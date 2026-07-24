@@ -1,6 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PriyanshuBh&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshuBh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahulbh8077&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbh8077" /> </p>
 <h1 align="center">
-   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Rahul+Bhadoriya;Data+Scientist;Machine+Learning" alt="Typing SVG" /></a>
+   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+Rahul+Bhadoriya;Data+Scientist+%7C+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">An Aspiring Data Scientist from India</h3>
@@ -8,9 +8,9 @@
 
    <img align="right" alt="Coding" width="300" height="280"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/rahulbh8077)
+- 🔭 I'm currently working on [Portfolio](https://github.com/rahulbh8077)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I'm currently learning **Machine Learning**
 
 - 📫 How to reach me **rahulbh8077@gmail.com**
 
@@ -31,30 +31,36 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://priyanshubh.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres,prisma,linkedin,vercel,python,Numpy,Pandas,Matplotlib"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres,prisma,vercel,python,pandas,matplotlib"/>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman" /><a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
- </p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman" />
+</p>
 
 <br></br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <div align=center>
-  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=priyanshubh&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-  <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=priyanshubh&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshubh&theme=dark&hide_border=true"/>
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
-  <img alt="github-snake" src="snake/github-light.svg" />
-</picture>
+<div align="center">
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbh8077&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=rahulbh8077&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbh8077&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
+    <img alt="github-snake" src="snake/github-light.svg" />
+  </picture>
 </div>
 
 ### ✍️ Random Dev Quote
