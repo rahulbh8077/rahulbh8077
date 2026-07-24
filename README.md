@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rahulbh8077&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbh8077" /> </p>
 <h1 align="center">
-   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+👋,+I'm+Rahul;Full+Stack+Developer;Data+Scientist;Tech+Enthusiast" alt="Typing SVG" /></a>
+   <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Bhadoriya;Data+Scientist;ML+Enthusiast;Python+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">An Aspiring Data Scientist from India</h3>
