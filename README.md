@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/rahul-bhadoriya-61ab3336b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://priyanshubh.vercel.app/" target="_blank">
+  <a href="https://rahul-portfolio31.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </p>
