@@ -3,7 +3,7 @@
    <a href="https://github.com/rahulbh8077"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Bhadoriya;Data+Scientist;ML+Enthusiast;Data-Visualization" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">An Aspiring Data Scientist Learner from India</h3>
+<h3 align="center">An Aspiring Data Scientist Learner from India </h3>
 
 
    <img align="right" alt="Coding" width="300" height="280"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
