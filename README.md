@@ -61,7 +61,7 @@
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbh8077&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
